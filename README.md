@@ -1,2 +1,2 @@
 # Projetos
- Projetos realizados com utilização do Python
+ Projetos realizados com utilização do Python e Power BI
